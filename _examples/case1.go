@@ -28,3 +28,6 @@ func bePanic(err error){
 	}
 }
 
+func justPanic(){
+	panic()
+}
